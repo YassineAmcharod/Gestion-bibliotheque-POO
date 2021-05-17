@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1609836060 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\adherent.cpp
+	"Adherent.h"
+	<iostream>
+
+1609248869 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\adherent.h
+	<string>
+	"Bibliotheque.h"
+	"ListeLivres.h"
+	"Livre.h"
+
+1609876491 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\bibliotheque.h
+	"ListeLivres.h"
+	"Livre.h"
+	<string>
+
+1609249372 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\listelivres.h
+	"Livre.h"
+
+1609249372 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\livre.h
+	<string>
+
+1609249372 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\album.cpp
+	"Album.h"
+	<iostream>
+
+1609249372 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\album.h
+	"Livre.h"
+	<string>
+
+1609249372 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\bandedessinee.cpp
+	"BandeDessinee.h"
+	<iostream>
+
+1609249372 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\bandedessinee.h
+	<string>
+	"Livre.h"
+
+1609836883 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\bibliotheque.cpp
+	"Bibliotheque.h"
+	<iostream>
+
+1609249372 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\listelivres.cpp
+	"ListeLivres.h"
+
+1609249372 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\livre.cpp
+	<iostream>
+	"Livre.h"
+
+1609249372 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\piecetheatre.cpp
+	"PieceTheatre.h"
+	<iostream>
+
+1609249372 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\piecetheatre.h
+	"Livre.h"
+	<string>
+
+1609249372 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\recueilpoesie.cpp
+	"RecueilPoesie.h"
+	<iostream>
+
+1609249372 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\recueilpoesie.h
+	"Livre.h"
+	<string>
+
+1609249372 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\roman.cpp
+	"Roman.h"
+	<iostream>
+
+1609249372 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\roman.h
+	"Livre.h"
+	<string>
+
+1609877420 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Livre.h"
+	"BandeDessinee.h"
+	"Roman.h"
+	"Album.h"
+	"PieceTheatre.h"
+	"RecueilPoesie.h"
+	"Bibliotheque.h"
+	"Adherent.h"
+	<sstream>
+	<algorithm>
+	<vector>
+
+1609253879 c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\include\interfaces.h
+
+1609252779 source:c:\users\hp\documents\disque c\2a\informatique\poo\projetcpp\src\interfaces.cpp
+	"Interfaces.h"
+	<iostream>
+

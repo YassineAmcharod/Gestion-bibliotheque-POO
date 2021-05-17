@@ -1,0 +1,6 @@
+Livre,1,"romain","java","nada",11,"adulte"
+BandeDessinee,2,"yassine","jee","baka",22,"adulte","jack"
+Roman,3,"taha","html","simi",33,"adulte","drama"
+Album,4,"arthur","css","doha",44,"adulte","photo"
+PieceTheatre,5,"salah","javascript","rajib",55,"adulte",19
+RecueilPoesie,6,"ali","php","tawfik",66,"adulte","vers"
